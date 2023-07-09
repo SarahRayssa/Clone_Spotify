@@ -1,4 +1,4 @@
-<img src="./img/preview"/>
+<img src="./img/preview.png"/>
 # Descrição
 
 Bem vindo(a) ao meu primeiro projeto! 
